@@ -1,0 +1,14 @@
+{
+  "Windows": [
+    {
+      "ClassName": "Chrome_WidgetWin_1",
+      "Caption": "Google Chrome",
+      "Choice": 1
+    },
+    {
+      "ClassName": "Notepad",
+      "Caption": "Untitled - Notepad",
+      "Choice": 2
+    }
+  ]
+}
